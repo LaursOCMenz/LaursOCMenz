@@ -6,7 +6,7 @@ I recently completed an MSc in **Data Science and Analytics** and am currently c
 
 My background in **Neuroscience** sparked my interest in data and its potential to transform complex information into meaningful insights that support research, decision-making and real-world outcomes.
 
-Through my MSc, I have developed practical experience in **Python, R, PySpark, Hadoop, Tableau and machine learning**, alongside data preprocessing, exploratory data analysis and data visualisation. My dissertation applies these skills to crop-yield prediction, investigating whether incorporating economic factors alongside environmental and soil variables improves machine-learning predictions.
+Through my MSc, I have developed practical experience in **Python, R, PySpark, Hadoop, Tableau and machine learning**, alongside data preprocessing, exploratory data analysis and data visualisation. My dissertation applies these skills to crop-yield prediction, investigating whether incorporating economic factors alongside environmental and soil variables improves machine learning predictions.
 
 I am now looking to transition into a **data-focused career** where I can apply analytical and machine-learning skills to meaningful, real-world problems.
 

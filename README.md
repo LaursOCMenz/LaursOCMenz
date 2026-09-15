@@ -39,7 +39,7 @@ Statistical analysis of household carbon footprint and recycling behaviour using
 
 **Techniques:** Spearman's correlation | Generalised Additive Models (GAM) | Multiple Linear Regression | Logistic Regression
 
-➡️ **[View Project](PUT-YOUR-CARBON-FOOTPRINT-REPOSITORY-LINK-HERE)**
+➡️ **[View Project](https://github.com/LaursOCMenz/carbon-footprint-analysis-r)**
 
 ---
 

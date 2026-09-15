@@ -11,7 +11,6 @@ Through my MSc, I have developed practical experience in **Python, R, PySpark, H
 I am now looking to transition into a **data-focused career** where I can apply analytical and machine-learning skills to meaningful, real-world problems.
 
 - 🌍 I'm based in the United Kingdom
-- 📧 You can contact me at **lauraoseimensah@gmail.com**
 - 🤝 I'm open to collaborating on data science and machine-learning projects addressing real-world problems
 - ♟️ Away from the keyboard, I enjoy reading and playing chess 📚
 

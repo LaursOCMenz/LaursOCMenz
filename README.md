@@ -58,4 +58,4 @@ The project integrates data from multiple sources and compares several machine-l
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/laura-osei-mensah-3b0283225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/laura-osei-mensah-3b0283225)

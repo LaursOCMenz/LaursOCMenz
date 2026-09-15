@@ -1,26 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Laura Osei-Mensah
-==========================================================================================================================================
+# 👋 Hi, I'm Laura Osei-Mensah
 
-MSc Data Science and Analytics | Aspiring Data Scientist
---------------------------------------------------------
+## MSc Data Science and Analytics | Aspiring Data Scientist
 
-I recently completed an MSc in Data Science and Analytics, and I am currently completing my dissertation, with results to date placing me on track for a Distinction.
+I recently completed an MSc in **Data Science and Analytics** and am currently completing my dissertation, with results to date placing me on track for a Distinction.
 
-My background in Neuroscience sparked my interest in data. I became particularly interested in the amount of data generated across scientific and healthcare settings, and how data can be transformed into meaningful insights to support research, decision-making and real-world outcomes.
+My background in **Neuroscience** sparked my interest in data and its potential to transform complex information into meaningful insights that support research, decision-making and real-world outcomes.
 
-Through my MSc, I have developed practical experience in Python,PySpark, R, Hadoop, Tableau, machine learning, data preprocessing, exploratory data analysis and data visualisation. My dissertation has allowed me to apply these skills to a real-world agricultural dataset, where I am investigating whether incorporating economic factors alongside environmental and soil variables improves crop yield prediction using machine learning models.
+Through my MSc, I have developed practical experience in **Python, R, PySpark, Hadoop, Tableau and machine learning**, alongside data preprocessing, exploratory data analysis and data visualisation. My dissertation applies these skills to crop-yield prediction, investigating whether incorporating economic factors alongside environmental and soil variables improves machine-learning predictions.
 
-I am now looking to transition into a data focused career where I can apply analytical and machine learning skills to meaningful, real-world problems, particularly in areas where data can contribute to scientific, social or practical decision-making.
+I am now looking to transition into a **data-focused career** where I can apply analytical and machine-learning skills to meaningful, real-world problems.
 
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [lauraoseimensah@gmail.com](mailto:lauraoseimensah@gmail.com)
-* 👥  I'm looking to collaborate on Data science and machine-learning projects addressing real-world problems
-* 💬  Ask me about Away from the keyboard, I enjoy reading and playing chess ♟️📚
+- 🌍 I'm based in the United Kingdom
+- 📧 You can contact me at **lauraoseimensah@gmail.com**
+- 🤝 I'm open to collaborating on data science and machine-learning projects addressing real-world problems
+- ♟️ Away from the keyboard, I enjoy reading and playing chess 📚
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-</p>
+---
 
-### Socials
+## 🛠️ Technical Skills
 
-<p align="left"> <a href="https://www.linkedin.com/in/laura-osei-mensah-3b0283225" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+**Programming & Data Analysis:** Python | R | PySpark  
+
+**Machine Learning:** Scikit-learn | XGBoost | Regression | Ensemble Methods  
+
+**Data & Big Data:** Pandas | NumPy | Hadoop  
+
+**Data Visualisation:** Matplotlib | Seaborn | Tableau  
+
+**Tools:** Git | GitHub | VS Code | RStudio  
+
+---
+
+## 📊 Featured Projects
+
+### 🌱 Household Carbon Footprint Analysis
+
+Statistical analysis of household carbon footprint and recycling behaviour using **R**, incorporating data cleaning, exploratory data analysis, data visualisation and statistical modelling.
+
+**Techniques:** Spearman's correlation | Generalised Additive Models (GAM) | Multiple Linear Regression | Logistic Regression
+
+➡️ **[View Project](PUT-YOUR-CARBON-FOOTPRINT-REPOSITORY-LINK-HERE)**
+
+---
+
+### 🌾 Crop Yield Prediction Using Machine Learning
+**MSc Data Science and Analytics Dissertation**
+
+An end-to-end machine-learning project investigating whether incorporating **economic factors alongside environmental and soil variables** improves crop-yield prediction across Canadian provinces.
+
+The project integrates data from multiple sources and compares several machine-learning approaches to evaluate the contribution of economic information to predictive performance.
+
+**Techniques:** Data Integration | Data Preprocessing | Feature Selection | Temporal Cross-Validation | XGBoost | Random Forest | MLP | Stacking Ensemble
+
+🚧 **Currently completing dissertation**
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/laura-osei-mensah-3b0283225)

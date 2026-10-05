@@ -32,6 +32,14 @@ I am now looking to transition into a **data-focused career** where I can apply 
 
 ## 📊 Featured Projects
 
+### 💳 Loan Default Prediction
+
+Machine learning analysis of loan default using borrower and credit characteristics, incorporating data cleaning, exploratory data analysis, borrower segmentation and Support Vector Machine (SVM) classification. The modelling workflow was scaled from a 20,000-observation balanced sample in R to a larger balanced dataset of 513,416 loans using PySpark.
+
+**Techniques:** Exploratory Data Analysis | K-means Clustering | PCA | Support Vector Machines (SVM) | PySpark | ROC-AUC
+
+➡️ **[View Project]()**
+
 ### 🌱 Household Carbon Footprint Analysis
 
 Statistical analysis of household carbon footprint and recycling behaviour using **R**, incorporating data cleaning, exploratory data analysis, data visualisation and statistical modelling.

@@ -38,7 +38,7 @@ Machine learning analysis of loan default using borrower and credit characterist
 
 **Techniques:** Exploratory Data Analysis | K-means Clustering | PCA | Support Vector Machines (SVM) | PySpark | ROC-AUC
 
-➡️ **[View Project]()**
+➡️ **[View Project](https://github.com/LaursOCMenz/loan-default-prediction)**
 
 ### 🌱 Household Carbon Footprint Analysis
 
@@ -47,8 +47,6 @@ Statistical analysis of household carbon footprint and recycling behaviour using
 **Techniques:** Spearman's correlation | Generalised Additive Models (GAM) | Multiple Linear Regression | Logistic Regression
 
 ➡️ **[View Project](https://github.com/LaursOCMenz/carbon-footprint-analysis-r)**
-
----
 
 ### 🌾 Crop Yield Prediction Using Machine Learning
 **MSc Data Science and Analytics Dissertation**
@@ -59,7 +57,7 @@ The project integrates data from multiple sources and compares several machine-l
 
 **Techniques:** Data Integration | Data Preprocessing | Feature Selection | Temporal Cross-Validation | XGBoost | Random Forest | MLP | Stacking Ensemble
 
-🚧 **Currently completing dissertation**
+🔒 **Repository will be made available following academic assessment.**
 
 ---
 

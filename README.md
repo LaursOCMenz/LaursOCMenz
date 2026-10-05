@@ -48,6 +48,16 @@ Statistical analysis of household carbon footprint and recycling behaviour using
 
 ➡️ **[View Project](https://github.com/LaursOCMenz/carbon-footprint-analysis-r)**
 
+### 📊 Inflation Trends 2010–2023 — Tableau Dashboard
+
+Interactive Tableau dashboard exploring inflation trends between 2010 and 2023. 
+The dashboard uses data visualisation to examine changes in inflation over time 
+and communicate key patterns through an accessible, interactive format.
+
+**Techniques:** Tableau | Data Visualisation | Dashboard Design | Trend Analysis | Interactive Reporting
+
+➡️ **[View Interactive Dashboard](https://public.tableau.com/views/InflationTrends2010-2023/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 ### 🌾 Crop Yield Prediction Using Machine Learning
 **MSc Data Science and Analytics Dissertation**
 

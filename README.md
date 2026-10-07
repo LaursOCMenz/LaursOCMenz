@@ -2,7 +2,7 @@
 
 ## MSc Data Science and Analytics | Aspiring Data Scientist
 
-I recently completed an MSc in **Data Science and Analytics** and am currently completing my dissertation, with results to date placing me on track for a Distinction.
+I recently completed an **MSc in Data Science and Analytics**, with results to date placing me on track to achieve a **Distinction**.
 
 My background in **Neuroscience** sparked my interest in data and its potential to transform complex information into meaningful insights that support research, decision-making and real-world outcomes.
 

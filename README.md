@@ -8,7 +8,7 @@ My background in **Neuroscience** sparked my interest in data and its potential 
 
 Through my MSc, I have developed practical experience in **Python, R, PySpark, Hadoop, Tableau and machine learning**, alongside data preprocessing, exploratory data analysis and data visualisation. My dissertation applies these skills to crop-yield prediction, investigating whether incorporating economic factors alongside environmental and soil variables improves machine learning predictions.
 
-I am now looking to transition into a **data-focused career** where I can apply analytical and machine-learning skills to meaningful, real-world problems.
+I am now looking to transition into a **data-focused career** where I can apply analytical and machine learning skills to meaningful, real-world problems.
 
 - 🌍 I'm based in the United Kingdom
 - 🤝 I'm open to collaborating on data science and machine-learning projects addressing real-world problems
@@ -61,7 +61,7 @@ and communicate key patterns through an accessible, interactive format.
 ### 🌾 Crop Yield Prediction Using Machine Learning
 **MSc Data Science and Analytics Dissertation**
 
-An end-to-end machine-learning project investigating whether incorporating **economic factors alongside environmental and soil variables** improves crop-yield prediction across Canadian provinces.
+An end-to-end machine learning project investigating whether incorporating **economic factors alongside environmental and soil variables** improves crop-yield prediction across Canadian provinces.
 
 The project integrates data from multiple sources and compares several machine-learning approaches to evaluate the contribution of economic information to predictive performance.
 
